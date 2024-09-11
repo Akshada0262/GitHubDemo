@@ -6,9 +6,10 @@ public class GitHub_Program {
 		
 		
 		String S = "akshada jagtap";
-		System.out.println(" Enter UserName");
+		System.out.println(" Enter UserName success");
 		
-	
+	    int a = 753;
+	    System.out.println("Enter numeric password success ");
 	}
 
 }
